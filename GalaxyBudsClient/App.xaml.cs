@@ -70,7 +70,7 @@ namespace GalaxyBudsClient
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
                 MainWindow.Instance.DisableApplicationExit = true;
-                MainWindow.Instance.OverrideMinimizeTray = true;
+                MainWindow.Instance.OverrideMinimizeTray = false;
                 MainWindow.Instance.Close();
                 MainWindow.Kill();
 
