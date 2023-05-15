@@ -79,7 +79,7 @@
         <PackageReference Include="Avalonia.Svg.Skia" Version="0.10.16" />
         <PackageReference Include="Avalonia.Xaml.Behaviors" Version="0.10.17" />
         <PackageReference Include="Config.Net" Version="4.15.0" />
-        <PackageReference Include="Config.Net.Json" Version="4.15.0" />
+        <PackageReference Include="Config.Net.Json" Version="4.18.0" />
         <PackageReference Include="CS-Script.Core" Version="1.4.2-preview" />
         <PackageReference Include="InputSimulatorCore" Version="1.0.5" />
         <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
